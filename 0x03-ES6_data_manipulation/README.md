@@ -1,1 +1,1 @@
-Data manimoulation
+Data manipulation
