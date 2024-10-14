@@ -1,2 +1,1 @@
-# 0x00. ES6 Basics
-Javascript Backend
+alx backend javascript
